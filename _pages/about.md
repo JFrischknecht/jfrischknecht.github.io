@@ -13,7 +13,7 @@ Hello there!
 I currently work as a data analyst at Raiffeisen, a large retail bank in
 Switzerland. Prior to that, I obtained a Bachelor's degree in Economics and a
 Master's degree in Quantitative Economics and Finance from the University of St.
-Gallen. During my studies I also worked as a research assistant for professor
+Gallen. During my studies, I also worked as a research assistant for professor
 [Charles Gottlieb](https://sites.google.com/site/gottliebcharles/Charles-Gottlieb) 
 and professor [Beatrix Eugster](https://www.beatrixeugster.ch/).
 
