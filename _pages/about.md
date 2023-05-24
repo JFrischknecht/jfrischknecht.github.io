@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br>
-
 Hello there!
 
 I currently work as a data analyst at Raiffeisen, a large retail bank in
