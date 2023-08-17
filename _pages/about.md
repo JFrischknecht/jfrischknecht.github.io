@@ -13,7 +13,7 @@ Hello there!
 I am currently pursuing a PhD in Econometrics at the 
 [Swiss Institute for Empirical Economic Research](https://sew.unisg.ch/) 
 of the University of St. Gallen. My supervisor is 
-[Michael Lechner](https://www.michael-lechner.eu/)
+[Michael Lechner](https://www.michael-lechner.eu/).
 
 Prior to that I worked as a data analyst at Raiffeisen, a large retail bank in
 Switzerland. I obtained my Bachelor's degree in Economics and my Master's
