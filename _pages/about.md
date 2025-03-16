@@ -22,6 +22,6 @@ During my studies, I also worked as a research assistant for professor
 [Charles Gottlieb](https://sites.google.com/site/gottliebcharles/Charles-Gottlieb) 
 and professor [Beatrix Eugster](https://www.beatrixeugster.ch/).
 
-I have extensive experience in cleaning, analysing and visualizing data, as
+I have extensive experience in curating, analysing and visualizing data, as
 well as programming in general. I am also enthusiastic about the development
 and application of econometric methods.
