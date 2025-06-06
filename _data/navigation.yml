@@ -3,6 +3,8 @@ main:
 
   - title: "Home"
     url: /
+  - title: "Research"
+    url: /research/
 
   # - title: "CV"
   # url: /files/github_CV.pdf
